@@ -1,0 +1,10 @@
+---
+title: "Test"
+author: "Rachel"
+date: "7/9/2020"
+output: html_document
+---
+
+```{r}
+GC<-read.csv("~/Google Drive/Projects/Masters/R input sheets/GCunmatched.csv", h=T)
+```
